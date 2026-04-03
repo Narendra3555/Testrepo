@@ -1,4 +1,5 @@
 Select * from Table tablename
+Select  * from View Viewname
 
 
 
