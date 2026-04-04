@@ -1,4 +1,4 @@
-Select * from Table tablename
+Select * from Table tablesname
 Select  * from View Viewname
 
 
